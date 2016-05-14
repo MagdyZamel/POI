@@ -1,0 +1,13 @@
+PODS:
+  - Alamofire (3.2.1)
+  - Onboard (2.1.7)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - Onboard
+
+SPEC CHECKSUMS:
+  Alamofire: f11d8624a05f5d39e0c99309b3e600a3ba64298a
+  Onboard: 87648089e1b76d13b4f5bf8f7a1cdb144092f0af
+
+COCOAPODS: 0.39.0
